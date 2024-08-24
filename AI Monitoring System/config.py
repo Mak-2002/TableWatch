@@ -24,4 +24,4 @@ CLASS_COLORS = {
 PLAYBACK_SPEED = 2.0
 
 # Waiter images path
-WAITER_IMAGES_PATH = 'C:\\Users\\ameer\\OneDrive\\Desktop\\new resturant ai\\ResturantAI\\public\\Image\\waiterPhoto'
+WAITER_IMAGES_PATH = '/Backend\\public\\Image\\waiterPhoto'
